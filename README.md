@@ -18,6 +18,7 @@ PATH/ pip intall numpy, scipy, matplotlib --upgrade
 PATH/ pip install neo==0.5.2
 
 PATH/ pip install PyQt4
+
 '''DISCLAIMER FOR PYQT4 : on some python distrbution this may fail, so you have to follow as written in this answer : 
 https://stackoverflow.com/questions/22640640/how-to-install-pyqt4-on-windows-using-pip
 '''
